@@ -1,0 +1,102 @@
+# Visual Studio Code files and folders
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\ Files/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Your own packages
+*.symbols.nupkg
+
+# Package directories
+*.PackageReadme.txt
+
+# Package configurations
+.nuget/
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# IDE files for Microsoft Visual Studio Code
+*.code-workspace
+
+# Backward compatibility API files
+*.opendb
+
+# MSTest results
+TestResults
+
+# NUnit results
+*.VisualState.xml
+TestResult.xml
+
+# Build log files
+*.log
+
+# R tools
+*.rdl.data
+*.bson
+*.htm
+
+# Office macro files
+*.vba
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.DocumentRevisions-V100*
+.fseventsd
+.fseventsd/
+.TemporaryItems
+.TemporaryItems/
+.Trashes
+.Trashes/
+
+# Output of the AVIRIS data pipeline
+log/
+
+# Temporary Windows files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
